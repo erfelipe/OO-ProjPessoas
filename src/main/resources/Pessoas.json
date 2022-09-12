@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Joao Silva Sauro",
+    "endereco": "Av. de tal, 223",
+    "telefones": 
+      {
+        "fixo": "31 33334444",
+        "celular": "31 11112222"
+      }
+    
+  },
+  {
+    "nome": "Fernanda Oliveira",
+    "endereco": "Av. exemplo, 8.876",
+    "telefones": 
+      {
+        "fixo": "31 55554444",
+        "celular": "31 45432222"
+      }
+    
+  },
+  {
+    "nome": "Marcos Witt",
+    "endereco": "Av. das Vertentes, 742",
+    "telefones": 
+      {
+        "fixo": "31 34214078",
+        "celular": "31 435321234"
+      }
+    
+  },
+  {
+    "nome": "Jorge Camargo",
+    "endereco": "Av. Nações, 8.876",
+    "telefones": 
+      {
+        "fixo": "31 55554444",
+        "celular": "31 45432222"
+      }
+    
+  },
+  {
+    "nome": "Andy Park",
+    "endereco": "Alameda Peace, 86",
+    "telefones": 
+      {
+        "fixo": "31 55554321",
+        "celular": "31 45484722"
+      }
+    
+  },
+  {
+    "nome": "Jenn Johnson",
+    "endereco": "Av. Vineyard, 753",
+    "telefones": 
+      {
+        "fixo": "31 23159723",
+        "celular": "31 45439122"
+      }
+    
+  }
+]
